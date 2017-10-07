@@ -52,7 +52,7 @@ namespace ConsoleApp2
                 }
                 catch (FormatException)
                 {
-                    Console.Write("Неверный символ6" + "\r\n"); userAnswerInvalid = true;
+                    Console.Write("Неверный символ" + "\r\n"); userAnswerInvalid = true;
                 }
             }
 
